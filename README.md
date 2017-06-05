@@ -10,4 +10,4 @@ Este repositório está organizado do seguinte modo:
 
 
 
-Dúvidas: esa@dcc.ufba.br ou esa@rise.com.br (apenas para alunos da disciplina LAB de Engenharia de Software (2017.1)@UFBA
+Dúvidas: esa@dcc.ufba.br ou esa@rise.com.br (apenas para alunos da disciplina LAB de Engenharia de Software 2017.1 @UFBA)
